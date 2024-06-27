@@ -1,6 +1,6 @@
 {
   "name": "expo-iterable-module",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "expo-iterable-module",
   "main": "build/index.js",
   "types": "index.d.ts",
