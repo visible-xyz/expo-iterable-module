@@ -33,9 +33,4 @@ export {
   IterableDataRegion,
 } from "@iterable/react-native-sdk";
 
-// export type {
-//   IterableInAppContent,
-//   IterableInboxCustomizations,
-//   InboxRowViewModel,
-//   InboxImpressionRowInfo,
-// } from "@iterable/react-native-sdk";
+
